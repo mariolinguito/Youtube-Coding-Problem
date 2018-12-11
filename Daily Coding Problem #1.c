@@ -17,9 +17,9 @@ int main(int argc, char *argv[]) {
 int ver_sum_1(int A[], int size, int k) {
 	int result = 0; 
 
-	for(int i = 0; i < 4; i++) {
+	for(int i = 0; i < size; i++) {
 		if(k-A[i] > 0) {
-			for(int j = 0; j < 4; j++) {
+			for(int j = 0; j < size; j++) {
 				if((k-A[i]) == A[j]) {
 					result = 1;
 					break; 	
