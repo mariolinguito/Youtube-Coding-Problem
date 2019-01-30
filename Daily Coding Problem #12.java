@@ -47,12 +47,12 @@ public class HelloWorld {
     }
 
     public static void main(String[] args) {
-		char[][] matrixChar = new char[][]{
+	char[][] matrixChar = new char[][]{
             { 'F', 'A', 'C', 'I' },
             { 'O', 'B', 'Q', 'P' },
             { 'A', 'N', 'O', 'B' },
             { 'M', 'A', 'S', 'S' }
-          };
+        };
 
         System.out.println(hasWord(matrixChar, "CQOS"));
     }
