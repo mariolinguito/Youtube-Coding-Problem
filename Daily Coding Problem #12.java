@@ -46,7 +46,7 @@ public class HelloWorld {
         return result; 
     }
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		char[][] matrixChar = new char[][]{
             { 'F', 'A', 'C', 'I' },
             { 'O', 'B', 'Q', 'P' },
