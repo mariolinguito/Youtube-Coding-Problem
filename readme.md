@@ -4,16 +4,16 @@ Hi! I'm Mario, I have fun to make video on YouTube (_link at the top_) about pro
 "Get _exceptionally_ good at coding interviews by solving one problem every day."
 
 
-## I solve the problem
+## I solve the problem.
 
 I solve the problem using one of the most important programming language, like C, or C++, or Java, and I publish the solution to GitHub, check my personal profile to see all the solutions. 
 
-## I make a video-explanation
+## I make a video-explanation.
 
 After I make a video-explanation about the solution I proposed before on my GitHub's personal profile, or LinkedIn or on my Facebook page. 
 
 
-## You can contribute with your solution
+## You can contribute with your solution.
 
 I am a friendly person, so you can send me a private message or a comment above my videos to propose your personal solution for the problem. 
 
